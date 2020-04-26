@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:text="Marka"
             android:background="@drawable/background"
-        />
+            />
 
         <TextView
             android:id="@+id/Model"
